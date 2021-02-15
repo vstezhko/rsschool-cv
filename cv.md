@@ -55,9 +55,3 @@ __Languages:__
 
 * English - intermediate
 * Russian - native
-
-
-
-
-
-
