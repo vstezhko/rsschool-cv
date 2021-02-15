@@ -1,2 +1,1 @@
-# rsschool-cv
-Pull Request - Markdown &amp; Git
+https://vstezhko.github.io/rsschool-cv/cv
